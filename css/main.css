@@ -162,3 +162,7 @@ section {
   color: #364147;
   font-size: 18px;
 }
+
+.account a {
+  font-size: 14px;
+}
