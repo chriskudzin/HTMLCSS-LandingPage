@@ -60,9 +60,11 @@ section {
 .align-center {
   align-items: : center;
 }
-.center{
+
+.center {
   justify-content: center;
 }
+
 .space-between {
   justify-content: space-between;
 }
