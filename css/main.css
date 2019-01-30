@@ -144,6 +144,10 @@ section {
 
 .nav-list {
   padding: 0;
+  padding-left: 0;
+  padding-top: 0;
+  padding-right: 0;
+  padding-right: 0;
   width: 575px;
   margin-top: 10px;
 }
