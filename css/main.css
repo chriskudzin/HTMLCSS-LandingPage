@@ -244,3 +244,9 @@ section {
 .category img {
   width: 100%;
 }
+.category-text {
+  color: #364174;
+  padding: 30px 0;
+  text-transform: uppercase;
+  text-align: center;
+}
