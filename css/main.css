@@ -230,7 +230,7 @@ section {
   text-align: center;
 }
 
-.banner-text>div:last-child {
+.banner-text > div:last-child {
   font-size: 16px;
   font-weight: 400;
   margin-top: 5px;
@@ -258,7 +258,7 @@ section {
   color: #faa541;
 }
 
-.category-text>h3 {
+.category-text > h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 1;
