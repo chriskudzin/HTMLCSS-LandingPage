@@ -388,7 +388,7 @@ footer a:hover {
   background-size: 23px 23px;
   background-position: center;
 }
- 
+
 .twitter {
   background-image: url('../img/twitter.svg');
 }
@@ -416,4 +416,16 @@ footer a:hover {
   font-size: 12px;
   font-weight: 400;
   margin-bottom: 15px;
+}
+
+.newsletter input{
+  border: 1px solid #364147;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.newsletter button {
+  width: 150px;
+  min-width: auto;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
