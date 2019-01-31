@@ -386,7 +386,7 @@ footer a:hover {
   width: 23px;
   height: 23px;
   background-size: 23px 23px;
-  background-color: center;
+  background-position: center;
 }
 
 .twitter {
