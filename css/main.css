@@ -388,7 +388,7 @@ footer a:hover {
   background-size: 23px 23px;
   background-position: center;
 }
-
+ 
 .twitter {
   background-image: url('../img/twitter.svg');
 }
@@ -401,8 +401,8 @@ footer a:hover {
   background-image: url('../img/instagram.svg');
 }
 
-.pintrest {
-  background-image: url('../img/pintrest.svg');
+.pinterest {
+  background-image: url('../img/pinterest.svg');
 }
 
 .newsletter .link-header {
