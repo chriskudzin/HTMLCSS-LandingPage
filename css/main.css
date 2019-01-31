@@ -404,3 +404,15 @@ footer a:hover {
 .pintrest {
   background-image: url('../img/pintrest.svg');
 }
+
+.newsletter .link-header {
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+.newsletter .link-subheader {
+  font-style: italic;
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
