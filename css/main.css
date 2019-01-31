@@ -388,3 +388,19 @@ footer a:hover {
   background-size: 23px 23px;
   background-color: center;
 }
+
+.twitter {
+  background-image: url('../img/twitter.svg');
+}
+
+.facebook {
+  background-image: url('../img/facebook.svg');
+}
+
+.instagram {
+  background-image: url('../img/instagram.svg');
+}
+
+.pintrest {
+  background-image: url('../img/pintrest.svg');
+}
