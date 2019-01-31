@@ -376,3 +376,5 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+.social ul li { display: inline-block;}
